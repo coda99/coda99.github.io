@@ -1,6 +1,6 @@
-Offiong Enang Obu (https://twitter.com/__ikana
-
 ## Welcome to GitHub Pages
+
+Offiong Enang Obu [@__ikana](https://twitter.com/__ikana)
 
 You can use the [editor on GitHub](https://github.com/coda99/coda99.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
